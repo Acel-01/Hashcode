@@ -86,7 +86,7 @@ for i in range(1,numOfPizzasInt+1):
 #print(deliveries)
 #print(stringOutput)
 finalStringOutput = str(deliveries)+stringOutput
-print(finalStringOutput)
+#print(finalStringOutput)
         
 outFile = 'output1Testing'
 with open(outFile,'w') as o:
